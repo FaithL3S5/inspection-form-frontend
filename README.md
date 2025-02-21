@@ -4,8 +4,6 @@
 
 This React application provides a dynamic photo upload system for car inspection services. It allows inspectors to upload an unlimited number of photos, label them, and submit the information for reports.
 
-![Application Screenshot](https://via.placeholder.com/800x400?text=Car+Inspection+Form)
-
 ## Features
 
 - Dynamic image field management (add/remove fields)
@@ -34,8 +32,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-inspection-frontend.git
-   cd car-inspection-frontend
+   git clone https://github.com/FaithL3S5/inspection-form-frontend.git
+   cd inspection-form-frontend
    ```
 
 2. Install dependencies:
@@ -43,11 +41,6 @@ Before you begin, ensure you have the following installed:
    npm install
    # or 
    yarn install
-   ```
-
-3. Create a `.env` file in the root directory with the following content:
-   ```
-   REACT_APP_API_URL=http://localhost:3001
    ```
 
 ## Running the Application
@@ -60,7 +53,7 @@ npm start
 yarn start
 ```
 
-The application will be available at [http://localhost:3000](http://localhost:3000).
+The application will be available at [http://localhost:5173](http://localhost:5173).
 
 ## Usage Guide
 
